@@ -1,0 +1,300 @@
+{
+  "monthly_themes": [
+    {
+      "month": "March",
+      "theme": "Spring Renewal",
+      "focus_areas": [
+        "Nature's awakening",
+        "Personal growth"
+      ]
+    },
+    {
+      "month": "April",
+      "theme": "Global Connections",
+      "focus_areas": [
+        "Cultural exchange",
+        "Environmental awareness"
+      ]
+    },
+    {
+      "month": "May",
+      "theme": "Joyful Moments",
+      "focus_areas": [
+        "Happiness",
+        "Gratitude"
+      ]
+    }
+  ],
+  "content_calendar": [
+    {
+      "week": "Week 1",
+      "main_content": {
+        "type": "Blog",
+        "title": "Spring's Symphony",
+        "description": "Discover the melody of nature's renewal",
+        "target_keywords": [
+          "Spring rebirth",
+          "Nature's awakening"
+        ],
+        "estimated_word_count": 1500
+      },
+      "supporting_content": [
+        {
+          "platform": "Instagram",
+          "content_type": "Post",
+          "description": "Witness the vibrant canvas of spring!"
+        },
+        {
+          "platform": "LinkedIn",
+          "content_type": "Video",
+          "description": "Dive into the soundscape of nature's symphony"
+        }
+      ]
+    },
+    {
+      "week": "Week 2",
+      "main_content": {
+        "type": "Guide",
+        "title": "The Bloom Within",
+        "description": "Cultivate personal growth with spring's inspiration",
+        "target_keywords": [
+          "Personal renewal",
+          "Spring mindset"
+        ],
+        "estimated_word_count": 2000
+      },
+      "supporting_content": [
+        {
+          "platform": "Twitter",
+          "content_type": "Post",
+          "description": "Embrace the #SpringRenewal spirit!"
+        },
+        {
+          "platform": "LinkedIn",
+          "content_type": "Story",
+          "description": "Unleash your potential with spring's guiding hand"
+        }
+      ]
+    },
+    {
+      "week": "Week 3",
+      "main_content": {
+        "type": "Case Study",
+        "title": "Nature's Canvas: A Marketing Masterpiece",
+        "description": "Learn from brands leveraging spring's renewal for success",
+        "target_keywords": [
+          "Nature-inspired marketing",
+          "Spring branding"
+        ],
+        "estimated_word_count": 1800
+      },
+      "supporting_content": [
+        {
+          "platform": "Instagram",
+          "content_type": "Post",
+          "description": "Bloom your brand with spring's inspiration"
+        },
+        {
+          "platform": "Twitter",
+          "content_type": "Post",
+          "description": "Nature's colors, your marketing canvas!"
+        }
+      ]
+    },
+    {
+      "week": "Week 4",
+      "main_content": {
+        "type": "Video",
+        "title": "Spring's Call to Adventure",
+        "description": "Embrace the season's invitation to explore and grow",
+        "target_keywords": [
+          "Spring adventures",
+          "Personal growth journeys"
+        ],
+        "estimated_word_count": 1500
+      },
+      "supporting_content": [
+        {
+          "platform": "LinkedIn",
+          "content_type": "Post",
+          "description": "Step into spring's adventures, transform within"
+        },
+        {
+          "platform": "Instagram",
+          "content_type": "Story",
+          "description": "Bloom, explore, evolve: Spring's call to adventure!"
+        }
+      ]
+    },
+    {
+      "week": "Week 5",
+      "main_content": {
+        "type": "Blog",
+        "title": "Globally United",
+        "description": "Cr8 a world without barriers.",
+        "target_keywords": [
+          "cultural exchange",
+          "connection"
+        ],
+        "estimated_word_count": 1500
+      },
+      "supporting_content": [
+        {
+          "platform": "Twitter",
+          "content_type": "Post",
+          "description": "Tweet on cultural diversity"
+        }
+      ]
+    },
+    {
+      "week": "Week 6",
+      "main_content": {
+        "type": "Video",
+        "title": "Voices from Afar",
+        "description": "Connect w/ stories that matter.",
+        "target_keywords": [
+          "cultural exchange",
+          "diverse voices"
+        ],
+        "estimated_word_count": 500
+      },
+      "supporting_content": [
+        {
+          "platform": "Instagram",
+          "content_type": "Story",
+          "description": "IG story w/ inspiring quote"
+        }
+      ]
+    },
+    {
+      "week": "Week 7",
+      "main_content": {
+        "type": "Guide",
+        "title": "Sustain Our Earth",
+        "description": "Tips for eco-conscious living.",
+        "target_keywords": [
+          "environmental awareness",
+          "sustainability"
+        ],
+        "estimated_word_count": 1000
+      },
+      "supporting_content": [
+        {
+          "platform": "LinkedIn",
+          "content_type": "Post",
+          "description": "LI post on environmentalism"
+        }
+      ]
+    },
+    {
+      "week": "Week 8",
+      "main_content": {
+        "type": "Case Study",
+        "title": "Zero-Waste Warriors",
+        "description": "Success stories in sustainability.",
+        "target_keywords": [
+          "environmental awareness",
+          "impact"
+        ],
+        "estimated_word_count": 1200
+      },
+      "supporting_content": [
+        {
+          "platform": "Instagram",
+          "content_type": "Post",
+          "description": "IG pic w/ zero-waste tips"
+        }
+      ]
+    },
+    {
+      "week": "Week 9",
+      "main_content": {
+        "type": "Blog/Guide",
+        "title": "5 Keys to Unlock Joy",
+        "description": "Discover practical tips to cultivate happiness daily.",
+        "target_keywords": [
+          "Joyful living",
+          "Happiness habits"
+        ],
+        "estimated_word_count": 1500
+      },
+      "supporting_content": [
+        {
+          "platform": "Instagram",
+          "content_type": "Post",
+          "description": "Find joy in the simple things!"
+        },
+        {
+          "platform": "LinkedIn",
+          "content_type": "Video",
+          "description": "Unlocking the secrets to a joyful life"
+        }
+      ]
+    },
+    {
+      "week": "Week 10",
+      "main_content": {
+        "type": "Case Study",
+        "title": "How Gratitude Transformed a Workplace",
+        "description": "Real-life example of gratitude's impact on employee well-being.",
+        "target_keywords": [
+          "Workplace gratitude",
+          "Gratitude in the workplace"
+        ],
+        "estimated_word_count": 1000
+      },
+      "supporting_content": [
+        {
+          "platform": "Twitter",
+          "content_type": "Story",
+          "description": "Gratitude is the key to a more positive work environment."
+        }
+      ]
+    },
+    {
+      "week": "Week 11",
+      "main_content": {
+        "type": "Video",
+        "title": "Finding Joy in Everyday Moments",
+        "description": "Inspirational video capturing the beauty of joyful moments.",
+        "target_keywords": [
+          "Joyful moments",
+          "Mindfulness"
+        ],
+        "estimated_word_count": 500
+      },
+      "supporting_content": [
+        {
+          "platform": "LinkedIn",
+          "content_type": "Post",
+          "description": "Embrace the joy around you."
+        },
+        {
+          "platform": "Instagram",
+          "content_type": "Video",
+          "description": "Highlights from the video"
+        }
+      ]
+    },
+    {
+      "week": "Week 12",
+      "main_content": {
+        "type": "Blog",
+        "title": "The Art of Savoring Joy",
+        "description": "Techniques to appreciate and prolong joyful moments.",
+        "target_keywords": [
+          "Savoring joy",
+          "Gratitude practice"
+        ],
+        "estimated_word_count": 1200
+      },
+      "supporting_content": [
+        {
+          "platform": "Twitter",
+          "content_type": "Post",
+          "description": "Don't let joy slip away; learn to savor it!"
+        }
+      ]
+    }
+  ]
+}
